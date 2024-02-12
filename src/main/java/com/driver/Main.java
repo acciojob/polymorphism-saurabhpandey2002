@@ -16,8 +16,7 @@ public class Main {
             return x*y*z;
         }
         public double product(double x, double y){
-            double v = x * y;
-            return v;
+            return x * y;
         }
     }
 
